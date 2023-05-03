@@ -1,4 +1,4 @@
-# Chatgpt prompts
+# ChatGPT Programming Prompts
 
 
 ### ![General](https://img.shields.io/badge/General-red?style=plastic) <br/>Boilerplate templates:
