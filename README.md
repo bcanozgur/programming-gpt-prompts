@@ -91,6 +91,37 @@ Task: Make an API that takes a name and an surname as inputs and sends back a su
 + `In [Technology or Framework Name], review this code for potential security vulnerabilities: [code snippet here].`
 
 
+### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Database optimization:
+
++ `Suggest database indexing strategies for this schema: [schema or table description].`
+
++ `In [Technology or Framework Name], recommend ways to optimize slow database queries: [query or use case].`
+
+### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Asynchronous processing:
+
++ `Show how to implement background jobs or task queues in [Technology or Framework Name]: [task description].`
+
++ `Suggest libraries for asynchronous processing in [Technology or Framework Name].`
+
+### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>API documentation:
+
++ `Generate OpenAPI/Swagger documentation for this API: [API description or code].`
+
++ `Suggest best practices for documenting APIs in [Technology or Framework Name].`
+
+### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Data validation:
+
++ `Show how to validate incoming request data in [Technology or Framework Name]: [example payload].`
+
++ `Suggest libraries for schema validation in [Technology or Framework Name].`
+
+### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Service integration:
+
++ `Show how to consume external REST APIs in [Technology or Framework Name]: [API details].`
+
++ `Suggest best practices for integrating with third-party services in [Technology or Framework Name].`
+
+
 ### ![Frontend](https://img.shields.io/badge/Frontend-blue?style=plastic) <br/>UI/UX suggestions:
 
 + `Suggest UI/UX improvements for this page: [screenshot or description].`
