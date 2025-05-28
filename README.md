@@ -5,41 +5,66 @@
 
 + `Act as a [Technology or Framework Name] developer. [Write a detailed description]`
 
-
 + `Act as: [Technology or Framework Name] Developer
 Technology stack: [Technology or Framework Name], spring boot, kafka, mongodb
 Functionality: communication
 Task: Make an API that takes a name and an surname as inputs and sends back a success response.`
+
++ `Act as a code reviewer for [Technology or Framework Name]. Review this code and provide suggestions: [code snippet here].`
+
++ `Act as a DevOps engineer. Suggest a CI/CD pipeline for this stack: [stack details].`
+
++ `Act as a security expert. Identify vulnerabilities in this code: [code snippet here].`
+
++ `Act as a performance engineer. Suggest optimizations for this function: [function/code here].`
+
++ `Act as a documentation writer. Generate documentation for this module: [module/code here].`
+
++ `Act as a test engineer. Write unit tests for this function: [function/code here].`
 
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Data structure selection :
 
 + `Recommend the most appropriate data structure for this use case: [use case description].`
 
++ `Compare the pros and cons of using [Data Structure A] vs [Data Structure B] for this scenario: [scenario description].`
+
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Design pattern:
 
 + `In [Technology or Framework Name], which design patterns are suitable for this scenario: [scenario description].`
+
++ `Suggest a refactor using a design pattern for this code: [code snippet here].`
 
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Memory leak detection:
 
 + `In [Technology or Framework Name], Help me identify potential memory leaks in this code: [code snippet here].`
 
++ `Suggest best practices to avoid memory leaks in [Technology or Framework Name].`
+
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>API endpoint design:
 
 + `In [Technology or Framework Name], help me design an API endpoint for this functionality: [functionality description].`
+
++ `Suggest RESTful resource naming conventions for this API: [API description].`
+
++ `Design a versioning strategy for this API: [API description].`
 
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Technical debt assessment:
 
 + `Evaluate this code for technical debt and suggest ways to reduce it: [code snippet here].`
 
++ `Identify code smells in this code and suggest improvements: [code snippet here].`
+
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Time complexity analysis:
 
 + `Analyze the time complexity of this algorithm: [algorithm description or code snippet].`
+
++ `Suggest ways to improve the time complexity of this function: [function/code here].`
 
 
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Error logging best practices:
@@ -64,6 +89,20 @@ Task: Make an API that takes a name and an surname as inputs and sends back a su
 ### ![Backend](https://img.shields.io/badge/Backend-purple?style=plastic) <br/>Security best practices:
 
 + `In [Technology or Framework Name], review this code for potential security vulnerabilities: [code snippet here].`
+
+
+### ![Frontend](https://img.shields.io/badge/Frontend-blue?style=plastic) <br/>UI/UX suggestions:
+
++ `Suggest UI/UX improvements for this page: [screenshot or description].`
+
++ `Recommend accessibility enhancements for this component: [component/code here].`
+
+
+### ![Frontend](https://img.shields.io/badge/Frontend-blue?style=plastic) <br/>Component design:
+
++ `Design a reusable component for this feature: [feature description].`
+
++ `Suggest a state management approach for this frontend app: [app description].`
 
 
 ### ![Frontend](https://img.shields.io/badge/Frontend-yellow?style=plastic) <br/>Frontend component design:
@@ -174,6 +213,15 @@ Task: Make an API that takes a name and an surname as inputs and sends back a su
 + `In [Technology or Framework Name], Guide me through setting up an automated code review tool for this project: [project details].`
 
 
+### ![DevOps](https://img.shields.io/badge/DevOps-green?style=plastic) <br/>Deployment:
+
++ `Suggest a deployment strategy for this application: [app description].`
+
++ `Write a Dockerfile for this project: [project description].`
+
++ `Recommend monitoring tools for this stack: [stack details].`
+
+
 ### ![Devops](https://img.shields.io/badge/Devops-gray?style=plastic) <br/>Kubernetes deployment:
 
 + `Assist me in deploying this application to a Kubernetes cluster: [application details].`
@@ -203,3 +251,4 @@ Requirement: This should give orders details order by date`
 
 ### ![Testing](https://img.shields.io/badge/Testing-indigo?style=plastic) <br/>Unit test 2:
 + `Please create a set of unit tests for the following code snippet that thoroughly test its functionality. First, outline the test cases you plan to create. Second, implement the test cases using [Technology or Framework Name] and the code snippet provided below.`
+
