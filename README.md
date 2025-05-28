@@ -252,3 +252,42 @@ Requirement: This should give orders details order by date`
 ### ![Testing](https://img.shields.io/badge/Testing-indigo?style=plastic) <br/>Unit test 2:
 + `Please create a set of unit tests for the following code snippet that thoroughly test its functionality. First, outline the test cases you plan to create. Second, implement the test cases using [Technology or Framework Name] and the code snippet provided below.`
 
++ `In [Technology or Framework Name], write a migration script to update the database schema for this change: [describe change].`
+
++ `Suggest a caching strategy for this application: [app description].`
+
++ `In [Technology or Framework Name], provide a code snippet to implement authentication for this API: [API details].`
+
++ `Generate a code snippet to upload files to cloud storage in [Technology or Framework Name]: [cloud provider details].`
+
++ `In [Technology or Framework Name], show how to paginate results for this endpoint: [endpoint details].`
+
++ `Suggest a rollback plan for this deployment: [deployment details].`
+
++ `In [Technology or Framework Name], provide a code example for sending email notifications: [notification requirements].`
+
++ `Help me internationalize this application: [app description].`
+
++ `In [Technology or Framework Name], demonstrate how to use environment variables securely: [project details].`
+
++ `Suggest a logging format and rotation policy for this application: [app description].`
+
++ `In [Technology or Framework Name], provide a code snippet for scheduled tasks (cron jobs): [task details].`
+
++ `Suggest a backup and disaster recovery plan for this system: [system description].`
+
++ `In [Technology or Framework Name], show how to implement webhooks for this event: [event details].`
+
++ `Provide a checklist for launching this application to production: [app description].`
+
++ `In [Technology or Framework Name], demonstrate how to use feature flags for this feature: [feature description].`
+
++ `Suggest a code style guide for this project: [project details].`
+
++ `In [Technology or Framework Name], provide a code snippet for real-time updates using websockets: [feature description].`
+
++ `Help me set up end-to-end testing for this application: [app description].`
+
++ `In [Technology or Framework Name], show how to implement OAuth2 authentication: [API details].`
+
++ `Suggest a branching strategy for this team's workflow: [team/project details].`
